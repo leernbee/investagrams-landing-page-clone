@@ -12,7 +12,7 @@ const Index = () => {
     <Main
       meta={
         <Meta
-          title="Investagram Landing page"
+          title="Investagrams Landing page"
           description="Cloned Landing page"
         />
       }

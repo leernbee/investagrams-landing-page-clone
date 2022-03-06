@@ -1,6 +1,6 @@
 export const AppConfig = {
   site_name: 'Starter',
-  title: 'Investagram Clone',
+  title: 'Investagrams Clone',
   description: 'Cloned Landing Page',
   locale: 'en',
 };
